@@ -1,5 +1,4 @@
 # Angry Birds Game 🐦
-
 ## Overview
 
 Welcome to the Angry Birds Game! 🎮 This guide provides a quick overview of the game.
