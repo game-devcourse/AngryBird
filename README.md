@@ -32,7 +32,7 @@ Each stage presents unique challenges and environments.
 - Prioritize defeating the Yellow Bird.
 - Use strategic angles to bypass wooden crates and reach challenging areas.
 
-[link to AngryBird](Link) - https://edenxhadar.itch.io/angrybird
+[link to AngryBird]([Link](https://edenxhadar.itch.io/angrybird)) 
 
 
  🚀 Thank you for playing Angry Birds! Enjoy the challenge and have fun defeating those mischievous pigs! 🎉
